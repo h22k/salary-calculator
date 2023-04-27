@@ -1,3 +1,3 @@
-import figlet from 'figlet';
-import { Command } from 'commander';
- //Start project
+import figlet from 'figlet'
+import { Command } from 'commander'
+//Start project
